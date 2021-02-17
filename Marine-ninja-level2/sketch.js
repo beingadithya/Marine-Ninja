@@ -36,7 +36,7 @@ var howToPlay, howToPlay_img;
 var instructions, instructions_img;
 
 var playButton, playButton_img
-var  BookInstructionButton, BookImstructionButton_img;
+var  BookInstructionButton, BookInstructionButton_img;
 
 var playText, playText_img;
 
@@ -86,7 +86,7 @@ function preload(){
 
   marineNinja_img = loadImage('images/MARINENINJALOGO.png');
 
-  howToPlay_img = loadImage('images/HowToplayTitle.png');
+  howToPlay_img = loadImage('images/HowToPlayTitle.png');
   instructions_img = loadImage('images/Level2InstructionsTest.png');
 
   diver_img = loadAnimation('images/diverImg1.png','images/diverImg2.png','images/DiverImg3.png','images/DiverImg4.png','images/DiverImg5.png','images/DiverImg6.png','images/DiverImg7.png','images/DiverImg8.png')
