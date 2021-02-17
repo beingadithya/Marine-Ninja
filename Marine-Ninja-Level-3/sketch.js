@@ -124,7 +124,7 @@ function preload(){
   tempbg = loadImage('images/haha.jpg');
 
   gameSound = loadSound('Sounds/gameSoundTrial.mp3');
-  winSound = loadSound('Sounds/Win.mp3');
+  winSound = loadSound('Sounds/WON.mp3');
   LoseSound = loadSound('Sounds/Fail.mp3');
 
   jelly1_img = loadImage('images/jellyfish1.png');

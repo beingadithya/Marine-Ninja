@@ -117,7 +117,7 @@ function preload(){
   tempbg = loadImage('images/haha.jpg');
 
   gameSound = loadSound('Sounds/gameSoundTrial.mp3');
-  winSound = loadSound('Sounds/Win.mp3');
+  winSound = loadSound('Sounds/WON.mp3');
   LoseSound = loadSound('Sounds/Fail.mp3')
 
   turtle1_img = loadImage('images/turtleMain.png');

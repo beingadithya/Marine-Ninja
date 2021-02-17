@@ -102,7 +102,7 @@ function preload(){
   tempbg = loadImage('images/haha.jpg');
 
   gameSound = loadSound('Sounds/gameSoundTrial.mp3');
-  winSound = loadSound('Sounds/Win.mp3');
+  winSound = loadSound('Sounds/WON.mp3');
   loseSound = loadSound('Sounds/Fail.mp3');
 
   marineNinjaLogo_img = loadImage('images/Logo.png');
