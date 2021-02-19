@@ -5,11 +5,12 @@ html, body {
     height : 100%;
   }
   body {
-    background-color: black;
+    background-color: red;
   }
 
-  .video-position {
+/*   .video-position {
     position: absolute;
     top: 10%;
-    /* left: -1%; */
+     left: -1%; 
   }
+ */
