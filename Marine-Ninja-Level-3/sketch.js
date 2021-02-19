@@ -38,7 +38,7 @@ var howToPlay, howToPlay_img;
 var instructions, instructions_img;
 
 var playButton, playButton_img
-var  BookInstructionButton, BookImstructionButton_img;
+var  BookInstructionButton, BookInstructionButton_img;
 
 var playText, playText_img;
 
