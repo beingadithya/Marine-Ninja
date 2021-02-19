@@ -471,7 +471,7 @@ function draw(){
    } 
    
    //win
-   if(scoreText === 100){
+   if(scoreText === 5){
     winText.visible = true;
     gameState = "WIN";
    }
@@ -503,6 +503,8 @@ if(gameState === "END"){
   diver.visible = false;
   score.visible = false;
   loseText.visible = true;
+  turtle1.visible = false;
+  net.visible = false;
 
   play = true;
   playSoundWhenLost();
