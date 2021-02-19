@@ -465,8 +465,8 @@ if(gameState === "END"){
   //noLoop();
   
 }
-   fill("white");
-    text(mouseX + ":" + mouseY, 600,150);
+   //fill("white");
+    //text(mouseX + ":" + mouseY, 600,150);
     drawSprites();
 
     
