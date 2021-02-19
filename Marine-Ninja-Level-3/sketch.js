@@ -472,28 +472,28 @@ function draw(){
    
    //win
    if(scoreText === 5){
-    winText.visible = true;
-    gameState = "WIN";
+     greet();
+     //gameState = "WIN";
    }
    
-if(gameState === "WIN"){
+//if(gameState === "WIN"){
  
  //greet();   
-  plasticWasteGroup.destroyEach();
-  fishGroup.destroyEach();
-  diver.visible = false;
+//  plasticWasteGroup.destroyEach();
+ // fishGroup.destroyEach();
+ // diver.visible = false;
  // winSound.play();
 
- play = true;
-  playSound();
+// play = true;
+//  playSound();
 
-  greet();
+  
  
 
   //noLoop();
   //gameSound.pause();
 
-}
+//}
 //lose
 if(gameState === "END"){
 
