@@ -471,7 +471,7 @@ function draw(){
    } 
    
    //win
-   if(scoreText === 700){
+   if(scoreText === 150){
      greet();
      //gameState = "WIN";
    }
