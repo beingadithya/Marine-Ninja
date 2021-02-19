@@ -437,7 +437,7 @@ function draw(){
    } 
    
    //win
-   if(scoreText === 500){
+   if(scoreText === 200){
     winText.visible = true;
     gameState = "WIN";
    }
